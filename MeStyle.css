@@ -1,0 +1,211 @@
+body {
+	background: mistyrose;
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
+.leftinfo {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: justify
+}
+.leftinfo {
+    max-width: 290px;
+}
+.process {
+    color:darkred;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: right;
+	text-align: justify
+}
+.process {
+    max-width: 500px;
+}
+.process {
+    position: relative;
+left: 350px;
+bottom: 990px;
+}
+.title {
+    color:salmon;
+	font-size: 24px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: right;
+}
+.processtitle {
+    color:salmon;
+	font-size: 24px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: right;
+}
+.processtitle {
+    position: relative;
+right: 80px;
+top: 10px;
+}
+.title {
+    position: relative;
+right: 785px;
+bottom: 960px;
+}
+.graphic {
+   position: relative;
+left:365px;
+bottom: 970px;
+}
+.stage1{
+    font-size: 18px;
+    position: relative;
+left: 75px; 
+}
+.stage2{
+    font-size: 18px;
+    position: relative;
+left: 75px; 
+}.stage3{
+    font-size: 18px;
+    position: relative;
+left: 75px; 
+}.stage4{
+    font-size: 18px;
+    position: relative;
+left: 75px; 
+}
+.plan{
+    position: relative;
+left: 70px;
+bottom: 10px;
+}
+
+.draw1  {
+    position: relative;
+left: -150px;
+}
+.draw2{
+    position:relative;
+left: 230px;
+bottom: 310px;
+}
+
+.lasttext {
+    position: relative; 
+bottom: 300px;
+}
+.stage1text {
+    background-color: moccasin ;
+padding: 10px ;
+border: 1px solid deeppink ;
+}
+.stage2text {
+    background-color: moccasin ;
+padding: 10px ;
+border: 1px solid deeppink ;
+}
+.stage3text {
+
+    background-color: moccasin ;
+padding: 10px ;
+border: 1px solid deeppink ;
+}
+.stage4text {
+    background-color: moccasin ;
+padding: 10px ;
+border: 1px solid deeppink ;
+}
+.infoinfo {
+    padding: 10px;
+border: 1px solid deeppink;
+}
+.TEXTBODY {
+    position: relative; 
+bottom: 200px;
+}
+
+
+
+/* Slideshow container */
+.slideshow-container {
+    position: relative;
+    left: 850px;
+    bottom: 3450px;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+  
+  
+  
+  /* Fading animation */
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+
+
+/* Slideshow container */
+.slideshow-container2 {
+    position: relative;
+    left: 850px;
+    bottom: 3500px;
+  }
+  
+  /* Hide the images by default */
+  .mySlides2 {
+    display: none;
+  }
+  
+  
+  
+  /* Fading animation */
+  .fade2 {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }

@@ -1,0 +1,221 @@
+body {
+	background: honeydew;
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+h1 {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+    text-align: left;
+	text-align: justify
+}
+
+
+
+p {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: justify
+}
+p{
+
+	max-width: 290px;
+}
+.header {
+   text-align: center;
+margin: auto;
+
+      
+}
+
+.fourE {
+  height: 442px;
+  width: 400px; 
+    position: relative;
+    bottom: 280px;
+    left: 390px;
+}
+.pinkball {
+    height: 442px;
+    width: 400px; 
+      position: relative;
+      bottom: 280px;
+      left: 430px;
+  }
+  .blueball {
+    height: 442px;
+    width: 400px; 
+      position: relative;
+      top: 210px;
+      right: 426px;
+  }
+
+ .fading {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        bottom: 240px;
+        left: 840px;
+ }
+
+ .flashing {
+
+height:442px;
+width:300px;
+
+position: relative;
+top:275px;
+right: 160px;
+ }
+ 
+ .flashinggrid {
+
+    height:490px;
+    width:380px;
+
+position: relative;
+bottom: 200px;
+left: 1000px;
+
+ }
+ .pushpop {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 292px;
+        left: 453px;
+ }
+ .crazy {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 1770px;
+        right: 405px;
+ }
+ .hairy {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 335px;
+        left: 390px;
+ }
+ .whitelow {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 2310px;
+        left: -18px;
+ }
+ .randlow {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 1320px;
+        left: 25px;
+ }
+ .ff {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        bottom: 115px;
+        left: 841px;
+ }
+ .whiteff {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 375px;
+        right: 18px;
+ }
+ .blueff {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 1367px;
+        right: 425px;
+ }
+ 
+ .rightff {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        bottom: 75px;
+        left: 840px;
+ }
+ .lowerspark {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 1410px;
+        left:433px;
+ }
+ .balls {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 1903px;
+        left: 25px;
+ }
+ .flower {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 1405px;
+        left: 390px;
+ }
+ .colorblind {
+
+    height: 490px;
+    width: 400px; 
+        position: relative;
+        bottom: 2050px;
+        left: -200px;
+ }
+ .lower {
+
+    height: 442px;
+    width: 400px; 
+        position: relative;
+        top: 790px;
+        right:18px;
+ }
+ .rainbow {
+     height:442px;
+     width: 400px;
+position: relative;
+left: 25px;
+top: 420px;
+ }
+ 

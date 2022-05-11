@@ -1,0 +1,163 @@
+body {
+	background: lightyellow;
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+.processtext {
+    color:darkviolet;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: right;
+	text-align: justify
+}
+.processtext {
+    max-width: 600px;
+position: relative;
+left: 780px;
+bottom: 460px;
+}
+.header{
+    font-size: 18px;
+position: relative;
+left: 80px;
+}
+.week1text{
+    position: relative;
+bottom: 200px;
+left: -20px;
+background-color: #cfc ;
+padding: 10px ;
+border: 1px solid thistle ;
+}
+  
+.week2 {
+    position: relative;
+    bottom: 190px;
+}
+.famnotes {
+    height: 300px;
+position: relative;
+bottom: 480px;
+}
+.jade {
+    height:160px;
+position: relative;
+left: 405px;
+bottom: 360px;
+}
+.dad {
+    height: 130px;
+    position: relative;
+left: 408px;
+bottom: 60px;
+}
+.week2text {
+    position: relative;
+bottom: 460px;
+left: -20px;
+background-color: #cfc ;
+padding: 10px ;
+border: 1px solid thistle ;
+}
+.week3head {
+    position: relative;
+bottom: 460px;
+}
+.week3text {
+    position: relative; 
+bottom: 460px;
+left: -20px;
+background-color: #cfc ;
+padding: 10px ;
+border: 1px solid thistle ;
+}
+.week4head {
+    position: relative; 
+bottom: 450px;
+}
+.horiz {
+    position: relative;
+bottom:450px;
+left: -21px;
+}
+.week4text {
+    position: relative; 
+bottom:430px;
+left: -20px;
+background-color: #cfc ;
+padding: 10px ;
+border: 1px solid thistle ;
+}
+.leftinfo {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: justify
+    
+}
+
+.leftinfo{
+
+	max-width: 275px;
+}
+
+.email1 {
+
+    height: 200px;
+position: relative;
+left: -60px;
+}
+.email2 {
+    height: 225px;
+position: relative; 
+left: 280px;
+bottom: 217px;
+}
+.finalwork {
+    color:darkviolet;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: right;
+	text-align: justify
+      
+}
+
+.finalwork {
+    position: fixed;
+    left: 435px;
+    bottom: 700px;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.posterpic {
+
+    position: fixed;
+
+bottom: 110px;
+left: 310px;
+}
+.infoinfo {
+    padding: 9px ;
+border: 1px solid darkviolet ;
+}

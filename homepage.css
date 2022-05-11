@@ -1,0 +1,325 @@
+body {
+	background: linear-gradient(-45deg, deeppink, #471930, #1d2330, lime);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+h1 {
+    color:white;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+    text-align: left;
+	text-align: justify
+}
+
+
+.href {
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+    text-align: left;
+	text-align: justify
+  
+}
+a:link {
+	color: white;
+  }
+
+  a:visited {
+	color: white;
+  }
+
+  a:hover {
+	color: chartreuse;
+  }
+  
+  a:active {
+	color: yellowgreen;
+  }
+
+ img {
+max-width: 100%;
+max-height: 100%;
+ }
+
+ 
+ .hoverscary{
+	
+position: relative;
+bottom: 150px;
+left: 240px;
+ }
+
+
+.hovercomp{
+	
+	position: relative;
+	bottom: 170px;
+	left: 500px;
+	 }
+
+.hovereyemag{
+	
+	position: relative;
+	bottom: 170px;
+	left: 60px;
+	 }
+
+
+.hovermicro{
+	
+	position: relative;
+	bottom: 780px;
+	left: 380px;
+	 }
+
+
+.hoverolia{
+	
+	position: relative;
+	bottom: 350px;
+	left: 360px;
+	 }
+
+
+.hoversurv{
+	
+	position: relative;
+	bottom: 690px;
+	left: 1000px;
+	 }
+
+
+ul li {
+	color: chartreuse;
+	font-size: 30px;
+ display: block;
+}
+
+
+.star1hover ul{
+
+display: flex;
+list-style: none;
+position: relative;
+ bottom: 125px;
+ left: 60px;
+}
+
+
+.star1hover ul li img{
+display:none;
+}
+.star1hover ul li:hover img{
+
+	display: block;
+
+}
+
+.hoverblue {
+
+	position: relative;
+	bottom: 100px;
+	left: 50px;
+
+}
+.hoverbutterfly{
+	position: relative;
+	left: 1000px;
+	bottom: 100px;
+}
+
+.hovercat1 {
+
+	position: relative;
+	left: 780px;
+}
+
+.hovercat2 {
+	
+	position: relative;
+	right: 40px;
+	top: 10px;
+
+}
+
+.hoverorange {
+
+	position: relative;
+	right: 30px;
+	top: 40px;
+}
+
+.hoverdad {
+
+position: relative;
+bottom: 700px;
+left: 200px;
+}
+
+.hoverkieran {
+	position: relative;
+	bottom: 1200px;
+	
+
+}
+
+.hoverrafia {
+	position: relative;
+	bottom: 1940px;
+	left: 750px;
+
+}
+
+.hoverzaina {
+	
+	position: relative;
+	bottom: 2040px;
+	left: 900px;
+
+}
+.star2hover ul{
+
+	display: flex;
+	list-style: none;
+	position: relative;
+	 bottom: 147px;
+	 left: 155px;
+	}
+	
+	
+	.star2hover ul li img{
+	display:none;
+	}
+	.star2hover ul li:hover img{
+	
+		display: block;
+	
+	}
+
+	
+.hoverfading {
+	position: relative;
+	left: 920px;
+	bottom: 230px;
+
+	}
+.hoverhairy{
+	position: relative;
+    bottom: 80px;
+	left: 920px;
+
+}
+.hoverLower {
+
+position: relative;
+bottom: 320px;
+left: 1055px;
+}
+.hoverflower {
+
+	position: relative;
+	bottom: 469px;
+	left: 787px;
+}
+.hoverRB{
+	position: relative;
+	bottom: 575px;
+	left: 1055px;
+
+}
+.hoverpinkball{
+
+	position: relative;
+	left: 920px;
+	bottom: 695px;
+}
+.hoverfade {
+	position: relative;
+	
+    bottom: 1000px;
+	left: 300px;
+}
+.hovercrazy {
+	position: relative;
+	left: 1055px;
+    bottom: 1190px;
+}
+.hoverrainbow {
+	position: relative;
+bottom: 500px;
+}
+
+	.star3hover ul{
+
+		display: flex;
+		list-style: none;
+		position: relative;
+		 bottom: 166px;
+		 left: 220px;
+		}
+		
+		
+		.star3hover ul li img{
+		display:none;
+		}
+		.star3hover ul li:hover img{
+		
+			display: block;
+		
+		}
+
+.hoverphone {
+	position: relative;
+	bottom: 200px;
+}
+
+		.star4hover ul{
+
+			display: flex;
+			list-style: none;
+			position: relative;
+			 bottom: 187px;
+			 left: 153px;
+			}
+			
+			
+			.star4hover ul li img{
+			display:none;
+			}
+			.star4hover ul li:hover img{
+			
+				display: block;
+			
+			}
+.header {
+    color:white;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: justify
+}
+
+  
+p{
+
+	max-width: 290px;
+}
+
+
+

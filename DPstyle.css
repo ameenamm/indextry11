@@ -1,0 +1,152 @@
+body {
+	background: lightsteelblue;
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+h1 {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+    text-align: left;
+	text-align: justify
+}
+
+.leftinfo {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: justify;
+}
+
+.myDiv1 {
+    max-width: 300px;
+}
+.leftinfo{
+
+	max-width: 230px;
+}
+
+.myDiv1 {
+    background-color: #cfc ;
+    padding: 10px ;
+    border: 1px solid green ;
+  }
+  
+.myDiv1 {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: center;
+}
+.myDiv1{
+    position: relative;
+left: 245px;
+bottom: 150px;
+}
+
+.button1 {
+    position: relative;
+    left: 35px;
+    bottom: 0px;
+}
+
+.myDiv2 {
+    position: relative; 
+bottom: 1320px;
+left: 580px;
+}
+.myDiv2 {
+    max-width: 300px;
+}
+
+
+.myDiv2 {
+    background-color: pink ;
+    padding: 10px ;
+    border: 1px solid deeppink ;
+  }
+  
+.myDiv2 {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: center;
+}
+
+.myDiv3 {
+    position: relative; 
+bottom: 2415px;
+left: 916px;
+}
+.myDiv3 {
+    max-width: 300px;
+}
+.myDiv3 {
+    background-color: lemonchiffon ;
+    padding: 10px ;
+    border: 1px solid yellow ;
+  }
+  
+.myDiv3 {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: center;
+}
+
+
+.myDiv4 {
+    position: relative; 
+bottom: 3303px;
+left: 1250px;
+}
+.myDiv4 {
+    max-width: 300px;
+}
+
+
+.myDiv4 {
+    background-color: lavender ;
+    padding: 10px ;
+    border: 1px solid darkviolet ;
+  }
+  
+.myDiv4 {
+    color:black;
+	font-size: 14px;
+    font-style: oblique;
+    font-weight: normal;
+	text-align: left;
+	text-align: center;
+}
+
+
+.header {
+   text-align: center;
+margin: auto;
+
+      
+}
